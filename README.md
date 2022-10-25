@@ -21,3 +21,4 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+![](https://media.giphy.com/media/SSirUu2TrV65ymCi4J/giphy.gif)
