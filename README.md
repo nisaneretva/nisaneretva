@@ -21,8 +21,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
 <p align="center">
-    <img width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Material Bread logo">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Material Bread logo">
 </p>
