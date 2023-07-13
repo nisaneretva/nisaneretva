@@ -9,7 +9,7 @@ class AIEngineer:
 
     def __init__(self):
         self.name = "Nisa Neretva"
-        self.role = "Junior Software Engineer"
+        self.role = "Junior AI Engineer"
         self.language_spoken = ["en_US"]
         self.code: [ "Python", "Javascript", "HTML", "CSS", "Java", "C"]
         self.fields: ["Computer Vision", "Machine Learning", "Data Analysis", "OOP", "Web Development"] 
