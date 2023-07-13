@@ -11,7 +11,7 @@ class AIEngineer:
         self.name = "Nisa Neretva"
         self.role = "Junior AI Engineer"
         self.language_spoken = ["en_US"]
-        self.code: [ "Python", "Javascript", "HTML", "CSS", "Java", "C"]
+        self.code: ["Python", "Pytorch", "Javascript", "HTML", "CSS", "C"]
         self.fields: ["Computer Vision", "Machine Learning", "Data Analysis", "OOP", "Web Development"] 
 
     def say_hi(self):
